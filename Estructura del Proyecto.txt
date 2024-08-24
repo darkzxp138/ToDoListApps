@@ -1,0 +1,9 @@
+﻿TaskManager
+│
+├── TaskManager.sln					// Archivo de solución de Visual Studio
+├── TaskManager
+│   ├── Program.cs					// Código fuente principal
+│ 
+├── TaskTests						// Pruebas unitarias
+│   
+└── README.md						// Instrucciones para compilar y ejecutar

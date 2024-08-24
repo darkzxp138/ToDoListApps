@@ -1,0 +1,7 @@
+/ToDoListApp
+??? Program.cs               // Archivo principal del proyecto
+??? Models                   // Carpeta para modelos de datos
+?   ??? Task.cs              // Clase que representa una tarea
+??? Services                 // Carpeta para lógica de negocio
+?   ??? TaskManager.cs       // Clase que gestiona la lista de tareas
+??? README.md                // Archivo de documentación del proyecto
